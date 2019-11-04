@@ -18,15 +18,15 @@ Selenium's source code is made available under the [Apache 2.0 license](https://
 Narrative documentation:
 
 * [User Manual](https://docs.seleniumhq.org/docs/)
-* [New Handbook](https://seleniumhq.github.io/docs/) (work in progress)
+* [New Handbook](https://selenium.dev/documentation/en/) (work in progress)
 
 API documentation:
 
-* [C#](https://seleniumhq.github.io/selenium/docs/api/dotnet/)
-* [JavaScript](https://seleniumhq.github.io/selenium/docs/api/javascript/)
-* [Java](https://seleniumhq.github.io/selenium/docs/api/java/index.html)
-* [Python](https://seleniumhq.github.io/selenium/docs/api/py/)
-* [Ruby](https://seleniumhq.github.io/selenium/docs/api/rb/)
+* [C#](https://selenium.dev/selenium/docs/api/dotnet/)
+* [JavaScript](https://selenium.dev/selenium/docs/api/javascript/)
+* [Java](https://selenium.dev/selenium/docs/api/java/index.html)
+* [Python](https://selenium.dev/selenium/docs/api/py/)
+* [Ruby](https://selenium.dev/selenium/docs/api/rb/)
 
 ## Pull Requests
 
